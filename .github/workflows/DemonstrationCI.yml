@@ -9,5 +9,5 @@ jobs:
         - run: echo " etape 3 Build"
         - run: echo " etape 4 Tests"
         - run: echo " etape 5 Packaging"
-        - run: echo " etape 5 fin du pipeline"
+        - run: echo " etape 6 fin du pipeline"
         
