@@ -4,6 +4,6 @@ jobs:
   init:
     runs-on: ubuntu-latest
     steps:
-        run: echo "hello Moussa"
-        run: echo $hostname
+        - run: echo "hello Moussa"
+        - run: echo $hostname
 
